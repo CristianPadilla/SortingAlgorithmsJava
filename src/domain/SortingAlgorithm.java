@@ -1,5 +1,5 @@
 package domain;
 
-public interface SortinAlgorithm {
+public interface SortingAlgorithm {
     void sort(int[] unsortedArray);
 }

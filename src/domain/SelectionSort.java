@@ -1,6 +1,6 @@
 package domain;
 
-public class SelectionSort implements SortinAlgorithm {
+public class SelectionSort implements SortingAlgorithm {
     @Override
     public void sort(int[] list) {
         int minIndex;
